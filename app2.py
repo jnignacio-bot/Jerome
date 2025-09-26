@@ -9,7 +9,7 @@
 # - Fallback: if no docs uploaded OR user chooses, answer without docs
 
 import streamlit as st
-import openai
+import /mount/src/jerome/app.py
 import numpy as np
 from typing import List, Dict
 from pypdf import PdfReader
